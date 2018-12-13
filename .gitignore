@@ -1,0 +1,10 @@
+.DS_Store
+
+texput.log
+
+# Byte-compiled / optimized / DLL files
+/**/__pycache__/
+*.pyc
+
+# Jupyter Notebook
+/**/.ipynb_checkpoints
